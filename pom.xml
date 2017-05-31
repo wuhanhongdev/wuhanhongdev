@@ -8,4 +8,7 @@
     <artifactId>wuhanhongdev</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>Design</module>
+    </modules>
 </project>
