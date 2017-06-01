@@ -10,5 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>Design</module>
+        <module>Weixin</module>
+        <module>jfinal-weixin</module>
     </modules>
 </project>
