@@ -11,6 +11,7 @@
     <modules>
         <module>Design</module>
         <module>Weixin</module>
-        <module>jfinal-weixin</module>
+        <module>Socket</module>
+        <module>Mina</module>
     </modules>
 </project>
