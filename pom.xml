@@ -13,5 +13,6 @@
         <module>Weixin</module>
         <module>Socket</module>
         <module>Mina</module>
+        <module>MessageQueen</module>
     </modules>
 </project>
